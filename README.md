@@ -1,2 +1,2 @@
-# snort
-put the Snort detection system to the Storm platform
+# snortTest
+put the snort detection on the storm platform
